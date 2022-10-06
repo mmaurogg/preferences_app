@@ -1,0 +1,7 @@
+Temas:
+- barra lateral
+- activar modo oscuro
+- singleton en preferencias de usuario con libreria: shared_preferences 2.0.15
+    * tiene inicializacion asincrona
+    * nos permite mantener los settings despues de cerrado
+- 
